@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "GitHubActionsE2E"
+rootProject.name = "FloatingAITranslator"
 include(":app")
