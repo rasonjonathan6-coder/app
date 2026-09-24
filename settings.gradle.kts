@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "FloatingAITranslator"
+rootProject.name = "FloatingAITranslatorProof"
 include(":app")

@@ -82,7 +82,7 @@ class MainActivity : AppCompatActivity() {
             setPadding(dp(18), dp(24), dp(18), dp(24))
         }
 
-        root.addView(text("Floating AI Translator", 22f, R.color.text_primary))
+        root.addView(text("Floating AI Translator Proof", 22f, R.color.text_primary))
         root.addView(
             hint(
                 "Translate text and inject it into other apps, or read the last visible message. " +
